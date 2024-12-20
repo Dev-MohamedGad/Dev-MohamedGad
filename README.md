@@ -69,82 +69,8 @@
   </a>
 </p>
 
-## Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamedgad12/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Mohammed GadAllah" height="30" width="40" /></a>
-  
-  <a href="https://www.instagram.com/mohamed_gad199/profilecard/?igsh=YWc4NWVjNDVhaHh3" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Mohammed GadAllah" height="30" width="40" /></a>
-</p>
 
 
-## My Tech Stack
-
-<p align="left"> 
-
-  <a> 
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
-  </a> 
-  &emsp;
-  <a> 
-    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
-  </a> 
-  &emsp;
-  <a> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a> 
-    <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-grey?logo=Amazon&logoColor=white">
-  </a>
-  &emsp;
-   <a>
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
-  </a>
-  &emsp; 
-  <a> 
-     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white">
-   </a>
-  &emsp;
-  <a> 
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-orange?logo=nestjs&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="Redis" src="https://img.shields.io/badge/-Redis-red?logo=redis&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="React" src="https://img.shields.io/badge/-React-blue?logo=react&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="Rust" src="https://img.shields.io/badge/-Rust-brown?logo=rust&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="Socket.IO" src="https://img.shields.io/badge/-Socket.IO-lightgrey?logo=socket.io&logoColor=black"/>
-  </a>
-</p>
 
 ## Connect with me:
 <p align="left">
